@@ -9,7 +9,7 @@ sap.ui.define([
 
         return Controller.extend("project1.controller.Main", {
             onInit: function () {
-
+                    console.log("Abhishek");
             }
         });
     });
