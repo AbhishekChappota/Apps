@@ -7,6 +7,7 @@ sap.ui.define(
   
       return BaseController.extend("project1.controller.controller.App", {
         onInit() {
+            console.log("AM");
         }
       });
     }
